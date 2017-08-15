@@ -1,0 +1,3 @@
+com\egova\oauth\config\RemoteResourceConfig.class
+com\egova\oauth\controller\HomeController.class
+com\egova\oauth\ResourceApplication.class

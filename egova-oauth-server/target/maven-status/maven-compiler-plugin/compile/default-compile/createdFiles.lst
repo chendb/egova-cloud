@@ -1,0 +1,11 @@
+com\egova\oauth\controller\WebController.class
+com\egova\oauth\services\CustomUserService.class
+com\egova\oauth\OAuthApplication.class
+com\egova\oauth\entity\SysUser.class
+com\egova\oauth\entity\SysRole.class
+com\egova\oauth\repository\SysUserRepository.class
+com\egova\oauth\config\OAuthSecurityConfig.class
+com\egova\oauth\security\SsoAuthProvider.class
+com\egova\oauth\config\OAuthWebConfig.class
+com\egova\oauth\config\MvcConfig.class
+com\egova\oauth\controller\ErrorController.class

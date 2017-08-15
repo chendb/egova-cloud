@@ -1,0 +1,4 @@
+# 资源服务
+
+ResourceServerConfigurerAdapter是对资源服务访问权限的配置类，他可以用jdbc以及remote方式进行配置
+此工程是以jdbc方式
